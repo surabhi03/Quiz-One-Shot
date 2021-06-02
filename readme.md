@@ -2,7 +2,7 @@
 </br>
 </br>
 It's real fun and enjoying, do explore the website. <br>
-Click on <a href="https://www.quizzy.com"> Quizzy.com </a> to start playing.**
+Click on <a href="https://quizzy1v1.netlify.app/"> Quizzy </a> to start playing.**
 
 Have Fun!!!
 
