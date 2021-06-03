@@ -1,0 +1,4 @@
+Hello This folder consists of the images for the homepage.
+
+
+This sentance is added in the bugfix branch in order to get some hands on in pushing branches.
